@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-devops",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "linkinator": "^6.1.0"
+  }
+}
